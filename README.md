@@ -27,7 +27,7 @@ A cli employee tracker using sql and Inquirer
   Node v20 is required
 
   ## Usage
-  - [Video]()
+  - [Video](src/assets/walkthrough.mov)
  
     # Executing the Program
     1. open coding software and load in Watcher_Working_On files.
